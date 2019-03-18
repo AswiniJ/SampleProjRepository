@@ -1,3 +1,3 @@
 # SampleProjRepository
 Sample project
-For Practice2
+For Practice1
